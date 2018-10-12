@@ -4,3 +4,5 @@ AAA
 =======
 BBB
 >>>>>>> idea
+
+add home
