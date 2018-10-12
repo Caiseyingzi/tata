@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 AAA
+=======
+BBB
+>>>>>>> idea
